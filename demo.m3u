@@ -651,7 +651,6 @@ http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226287/1.m3u8
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226597/1.m3u8
 #EXTINF:-1,tvg-id="兰州新闻综合" tvg-name="兰州新闻综合" tvg-logo="https://epg.112114.xyz/logo/兰州新闻综合.png" group-title="其他",兰州新闻综合[1920x1080]
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226242/1.m3u8
-
 #EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="其他",CETV-4 中国教育4台[1280x576]
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226279/1.m3u8
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视[720x540]
@@ -1188,7 +1187,6 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
 #EXTINF:-1 group-title="IPV6·地区",「陕西」佛坪电视台「IPV6」
 http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-
 #EXTINF:-1 tvg-name="三立INEWS" group-title="YouTube「P」",三立INEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" group-title="YouTube「P」",寰宇新闻
