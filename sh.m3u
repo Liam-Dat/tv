@@ -528,11 +528,11 @@ http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226242/1.m3u8
 
 #EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="IPV6·地区",CETV-4 中国教育4台[1280x576]
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226279/1.m3u8
-#EXTINF:-1 tvg-name="LoveNrture" group-title="4K",Love Nrture 4K「自然」
+#EXTINF:-1 tvg-name="LoveNrture" group-title="4K频道",Love Nrture 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="4K",Fashion 4K「时尚」
+#EXTINF:-1 group-title="4K频道",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="4K",苏州4K
+#EXTINF:-1 group-title="4K频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="4K频道",8K测试「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
